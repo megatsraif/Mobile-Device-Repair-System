@@ -30,3 +30,17 @@ It includes both **customer** and **staff/admin** functionalities to streamline 
 - **Server:** Apache (XAMPP)
 
 ---
+
+## 📸 Screenshots
+
+### Home Page
+![Home Page](WebScreenshot/WebsiteHomePage.png)
+
+### Login Page
+![Login Page](WebScreenshot/WebsiteLogin.png)
+
+### New Account Page
+![New Account Page](WebScreenshot/WebsiteCreateAcc.png)
+
+### Booking Page
+![Booking Page](WebScreenshot/WebsiteBookingForm.png)
